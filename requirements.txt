@@ -1,0 +1,7 @@
+coverage
+dash
+dash-bootstrap-components
+numpy
+pandas
+plotly
+pytest
